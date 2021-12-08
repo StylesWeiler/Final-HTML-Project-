@@ -1,0 +1,57 @@
+/* Styles Weiler last edited: 09 Dec 21 */
+h2  {
+    text-align: center;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.fancy {
+    text-decoration: underline;
+  
+}
+
+.font {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.color { 
+    color: sandybrown;
+}
+
+a:hover {
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+.underline{
+    text-decoration: underline;
+    font-weight: normal;
+}
+.paragraph {
+    text-align: justify;
+}
+
+.justify {
+    text-align: justify;
+
+}
+
+.center{
+    text-align:center;
+
+}
+
+.tiny{
+    font-size: small;
+}
+
+.italicize{
+    font-style: italic;
+}
+
+.bold{
+    color: steelblue;
+}
